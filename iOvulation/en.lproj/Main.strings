@@ -1,0 +1,57 @@
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "5Nn-tc-HFG"; */
+"5Nn-tc-HFG.text" = "Label";
+
+/* Class = "UITabBarItem"; title = "Calendar"; ObjectID = "6od-JE-xFe"; */
+"6od-JE-xFe.title" = "Calendar";
+
+/* Class = "UINavigationItem"; title = "Setting"; ObjectID = "AYB-OF-ftn"; */
+"AYB-OF-ftn.title" = "Setting";
+
+/* Class = "UINavigationItem"; title = "Chart"; ObjectID = "BhQ-az-55r"; */
+"BhQ-az-55r.title" = "Chart";
+
+/* Class = "UIButton"; normalTitle = "Button1"; ObjectID = "CIv-Fg-8Gq"; */
+"CIv-Fg-8Gq.normalTitle" = "Button1";
+
+/* Class = "UILabel"; text = "Boise"; ObjectID = "FVH-8E-1mx"; */
+"FVH-8E-1mx.text" = "Boise";
+
+/* Class = "UITabBarItem"; badgeValue = "6"; ObjectID = "Fls-Mh-2JZ"; */
+"Fls-Mh-2JZ.badgeValue" = "6";
+
+/* Class = "UITabBarItem"; title = "Setting"; ObjectID = "Fls-Mh-2JZ"; */
+"Fls-Mh-2JZ.title" = "Setting";
+
+/* Class = "UILabel"; text = "Boston"; ObjectID = "GYm-xw-DOS"; */
+"GYm-xw-DOS.text" = "Boston";
+
+/* Class = "UINavigationItem"; title = "Calendar"; ObjectID = "NCC-pe-y2Z"; */
+"NCC-pe-y2Z.title" = "Calendar";
+
+/* Class = "UITableViewSection"; headerTitle = "QING"; ObjectID = "ODa-Kj-DM3"; */
+"ODa-Kj-DM3.headerTitle" = "QING";
+
+/* Class = "UITableViewSection"; headerTitle = "JIE"; ObjectID = "Tyl-uH-FZa"; */
+"Tyl-uH-FZa.headerTitle" = "JIE";
+
+/* Class = "UILabel"; text = "Syracuse"; ObjectID = "WQu-YU-Kjc"; */
+"WQu-YU-Kjc.text" = "Syracuse";
+
+/* Class = "UITabBarItem"; title = "Chart"; ObjectID = "Xnz-aU-8xG"; */
+"Xnz-aU-8xG.title" = "Chart";
+
+/* Class = "UILabel"; text = "Feedback"; ObjectID = "bhh-st-Wm1"; */
+"bhh-st-Wm1.text" = "Feedback";
+
+/* Class = "UITableViewSection"; headerTitle = "ZHAO"; ObjectID = "dON-3E-191"; */
+"dON-3E-191.headerTitle" = "ZHAO";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "dY3-Iz-rBo"; */
+"dY3-Iz-rBo.text" = "Label";
+
+/* Class = "UILabel"; text = "About"; ObjectID = "f7g-HC-Kwe"; */
+"f7g-HC-Kwe.text" = "About";
+
+/* Class = "UIButton"; normalTitle = "Button0"; ObjectID = "rZc-f3-aFw"; */
+"rZc-f3-aFw.normalTitle" = "Button0";

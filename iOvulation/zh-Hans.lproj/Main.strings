@@ -1,0 +1,39 @@
+
+/* Class = "UITabBarItem"; title = "Calendar"; ObjectID = "6od-JE-xFe"; */
+"6od-JE-xFe.title" = "Calendar";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "AYB-OF-ftn"; */
+"AYB-OF-ftn.title" = "Settings";
+
+/* Class = "UILabel"; text = "Boise"; ObjectID = "FVH-8E-1mx"; */
+"FVH-8E-1mx.text" = "Boise";
+
+/* Class = "UITabBarItem"; badgeValue = "6"; ObjectID = "Fls-Mh-2JZ"; */
+"Fls-Mh-2JZ.badgeValue" = "6";
+
+/* Class = "UITabBarItem"; title = "Settings"; ObjectID = "Fls-Mh-2JZ"; */
+"Fls-Mh-2JZ.title" = "Settings";
+
+/* Class = "UILabel"; text = "Boston"; ObjectID = "GYm-xw-DOS"; */
+"GYm-xw-DOS.text" = "Boston";
+
+/* Class = "UITableViewSection"; headerTitle = "QING"; ObjectID = "ODa-Kj-DM3"; */
+"ODa-Kj-DM3.headerTitle" = "QING";
+
+/* Class = "UITableViewSection"; headerTitle = "JIE"; ObjectID = "Tyl-uH-FZa"; */
+"Tyl-uH-FZa.headerTitle" = "JIE";
+
+/* Class = "UILabel"; text = "Syracuse"; ObjectID = "WQu-YU-Kjc"; */
+"WQu-YU-Kjc.text" = "Syracuse";
+
+/* Class = "UILabel"; text = "Feedback"; ObjectID = "bhh-st-Wm1"; */
+"bhh-st-Wm1.text" = "Feedback";
+
+/* Class = "UITabBarItem"; title = "Chart"; ObjectID = "cHB-La-xnZ"; */
+"cHB-La-xnZ.title" = "Chart";
+
+/* Class = "UITableViewSection"; headerTitle = "ZHAO"; ObjectID = "dON-3E-191"; */
+"dON-3E-191.headerTitle" = "ZHAO";
+
+/* Class = "UILabel"; text = "SU"; ObjectID = "f7g-HC-Kwe"; */
+"f7g-HC-Kwe.text" = "SU";
